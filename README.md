@@ -1,2 +1,2 @@
 # hh-school-postgresql
-PostgreSQL homwork
+PostgreSQL homework
